@@ -1,0 +1,89 @@
+.epace-icon {
+  position: absolute;
+  top: calc(50% - 270px);
+  left: 111px;
+  width: 540px;
+  height: 540px;
+  object-fit: cover;
+}
+.e-pace-mobile-app {
+  position: relative;
+  line-height: 106.5%;
+}
+.e-projects-appraisal-and {
+  margin: 0;
+}
+.e-projects-appraisal-and-container,
+.key-stakeholders {
+  font-family: var(--font-helvetica-neue);
+}
+.e-projects-appraisal-and-container {
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 24px;
+  display: inline-block;
+  width: 500px;
+}
+.e-pace-mobile-app-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.view-project {
+  position: relative;
+}
+.button,
+.txt {
+  display: flex;
+  align-items: flex-start;
+}
+.button {
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-mini) var(--padding-13xl);
+  justify-content: flex-start;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-helvetica-neue);
+}
+.txt {
+  position: absolute;
+  top: calc(50% - 142px);
+  left: 716px;
+  flex-direction: column;
+  justify-content: center;
+  gap: 54px;
+}
+.xcircle-icon {
+  position: absolute;
+  top: 50px;
+  left: 1325px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.arrowcircleright-icon {
+  position: absolute;
+  top: calc(50% - 22px);
+  left: 1330px;
+  width: 45px;
+  height: 45px;
+  overflow: hidden;
+}
+.epace-overlay {
+  position: relative;
+  width: 1440px;
+  height: 900px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-bebas-neue);
+}
